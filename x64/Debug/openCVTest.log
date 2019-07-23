@@ -1,0 +1,12 @@
+﻿  openCVTest.cpp
+c:\users\kostas\source\repos\opencvtest\opencvtest\opencvtest.cpp(55): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\kostas\source\repos\opencvtest\opencvtest\opencvtest.cpp(56): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  openCVTest.vcxproj -> C:\Users\kostas\source\repos\openCVTest\x64\Debug\openCVTest.exe
